@@ -1,0 +1,22 @@
+.navbar-dark {
+    background-color: #343A40;
+}
+.jumbotron {
+    background-color: #E9ECEF;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    margin-bottom: 32px;
+}
+.footer {
+    background-color: #F4F4F4;
+    padding: 32px;
+    margin-top: 69px;
+}
+.container {
+    margin-bottom: 32px;
+}
+.table{
+    display: block;
+    overflow-x: auto;
+    width: 100%;
+  }
